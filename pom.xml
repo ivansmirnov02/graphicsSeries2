@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ivan</groupId>
-    <artifactId>graphics Series 2</artifactId>
+    <artifactId>graphicsSeries2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
